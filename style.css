@@ -1,0 +1,24 @@
+.main{
+    width:50%;
+    padding:10px;
+    text-align: center;
+    border:2px solid black;
+    margin:0 auto;
+}
+iframe{
+    width:100%;
+
+}
+input{
+    margin-left:5px;
+    background-color: white;
+}
+input:hover{
+    background-color:lightgray;
+}
+#subscribe{
+    background-color: red;
+}
+#subscribe:hover{
+    background-color: tomato;
+}
